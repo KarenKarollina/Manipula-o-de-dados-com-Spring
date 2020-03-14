@@ -1,0 +1,16 @@
+com/challenge/service/interfaces/ServiceInterface.class
+com/challenge/service/interfaces/AccelerationServiceInterface.class
+com/challenge/entity/CandidateId.class
+com/challenge/entity/User.class
+com/challenge/entity/Submission.class
+com/challenge/entity/Challenge.class
+com/challenge/service/interfaces/SubmissionServiceInterface.class
+com/challenge/entity/SubmissionId.class
+com/challenge/service/interfaces/CompanyServiceInterface.class
+com/challenge/service/interfaces/UserServiceInterface.class
+com/challenge/entity/Candidate.class
+com/challenge/SpringChallengeApplication.class
+com/challenge/entity/Company.class
+com/challenge/service/interfaces/ChallengeServiceInterface.class
+com/challenge/service/interfaces/CandidateServiceInterface.class
+com/challenge/entity/Acceleration.class
